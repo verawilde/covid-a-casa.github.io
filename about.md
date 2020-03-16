@@ -15,7 +15,7 @@ Questo sito è pubblicato sotto una [Creative Commons Attribution-NonCommercial-
 Questo sito è migliore perché abbiamo ricevuto aiuto da (in ordine alfabetico):
 
 * Jill Bähring
-* Verde fortunato
+* Lucky Green
 * Jakob Richers
 * Katrin Schmidt
 * Andreas Steinhauser
