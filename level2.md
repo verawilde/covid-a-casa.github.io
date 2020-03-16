@@ -1,76 +1,76 @@
-## Level 2 -- Emerging Symptoms
+## Livello 2 -- Sintomi emergenti
 
 ![](/images/sneezing-emoji.png)
 
-Notice if you suffer from any of the following first symptoms:
+Si noti se si soffre di uno dei seguenti primi sintomi:
 
-* Fever
-* Fatigue
-* Sore throat
-* Dry (unproductive) cough
-* Coughing up slime
-* Joint / muscle pain
-* Shortness of breath
-* Lack of hunger
+* Febbre
+* La fatica
+* Gola dolorante
+* Tosse secca (improduttiva)
+* Tossisce la melma
+* Dolore articolare / muscolare
+* Respiro corto
+* Mancanza di fame
 
-Symptoms may also include headache, chills, dizziness, nasal congestion, abdominal pain, diarrhea, nausea, and vomiting. 
+I sintomi possono anche includere mal di testa, brividi, vertigini, congestione nasale, dolori addominali, diarrea, nausea e vomito. 
 
-Is COVID-19 spread in the community where you live? Or have you been to an affected area or been around someone who was in an affected area? Then your symptoms could very well be COVID-19. But remember: In many areas, the odds that it's something else will still be greater.
+COVID-19 è diffuso nella comunità in cui vivete? O siete stati in un'area interessata o siete stati intorno a qualcuno che si trovava in un'area interessata? Allora i suoi sintomi potrebbero benissimo essere COVID-19. Ma ricordate: in molti settori, le probabilità che si tratti di qualcos'altro saranno ancora maggiori.
 
-> Note: Fever is not subjective. You will need a thermometer (or two), and to keep track in a log of at least daily temperature. If you choose to take temperature internally (i.e., in the bottom / rectum), it will be more precise. Be sure you have enough wipes and alcohol to clean the thermometer after each use. If taking temperature orally, don’t eat or drink for 20 minutes beforehand. Either way, note the method in your log so healthcare personnel know which it is. (Around .7 degrees Celsius is often added to oral temperatures.) Here are some good instructions for [how to take an oral temperature](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Nota: La febbre non è soggettiva. Avrete bisogno di un termometro (o due), e per tenere traccia in un registro di almeno la temperatura giornaliera. Se si sceglie di prendere la temperatura internamente (cioè nel fondo / retto), sarà più preciso. Assicuratevi di avere abbastanza salviette e alcol per pulire il termometro dopo ogni utilizzo. Se si prende la temperatura per via orale, non mangiare o bere per 20 minuti prima. In ogni caso, annotate il metodo nel vostro registro in modo che il personale sanitario sappia quale sia. (Circa .7 gradi Celsius è spesso aggiunto alla temperatura orale.) Ecco alcune buone istruzioni per [come prendere una temperatura orale](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
-### Diagnosis
+### Diagnosi
 
-There will be different policies surrounding testing for COVID-19 based on where you are and what stage of the pandemic your area is in. Check online, call official hotline numbers, follow official guidelines, and consider driving to a drive-through testing center if your area has one and the patient qualifies for testing. **You should not just show up at a doctor's office or a hospital unannounced if you just experience the first symptoms.**
+Ci saranno diverse politiche relative ai test per COVID-19 in base al luogo in cui vi trovate e allo stadio della pandemia in cui si trova la vostra zona. Controllate online, chiamate i numeri telefonici ufficiali, seguite le linee guida ufficiali e prendete in considerazione la possibilità di guidare fino a un centro di test drive-through se la vostra zona ne ha uno e il paziente si qualifica per il test. **Non dovreste presentarvi in uno studio medico o in un ospedale senza preavviso se sperimentate solo i primi sintomi.
 
-> Remember: Hospitals are bad places to be until you absolutely have to be there: You and / or the patient run the risk of getting additional infections that, when bacterial or fungal, are much more likely to be resistant to standard treatments due to the nature of the hospital environment. Also: Many hospitals are going to be overloaded.
+> Ricordate: Gli ospedali sono un brutto posto dove stare fino a quando non si deve assolutamente essere lì: Voi e/o il paziente correte il rischio di contrarre ulteriori infezioni che, se batteriche o fungine, sono molto più resistenti ai trattamenti standard a causa della natura dell'ambiente ospedaliero. Anche: Molti ospedali saranno sovraccarichi.
 
-### Don't Panic - The Worried Well
+### Non fatevi prendere dal panico - Il pozzo preoccupato
 
-For most people, this will be as bad as it gets. You'll be a little sick, and then you'll get better. Done. At the same time, some people will not be so lucky. Even if only a relatively small percentage of those affected need medical care, this will put a serious strain on doctors, nurses and available medical resources. We can all help. The "Worried Well" are people who visit the doctor when they are not really (all that) sick, because they need reassurance. The coming weeks and months are not a good time for that. This website aims to give you more confidence and preparedness in caring for yourself, friends, and loved ones until you / they actually need professional help.
+Per la maggior parte delle persone, questo sarà il peggiore dei problemi. Ti sentirai un po' male e poi starai meglio. Fatto. Allo stesso tempo, alcune persone non saranno così fortunate. Anche se solo una percentuale relativamente piccola delle persone colpite ha bisogno di cure mediche, questo metterà a dura prova i medici, gli infermieri e le risorse mediche disponibili. Tutti noi possiamo aiutare. I "Worried Well" sono persone che visitano il medico quando non sono veramente (tutto questo) malate, perché hanno bisogno di rassicurazioni. Le prossime settimane e i prossimi mesi non sono un buon momento per questo. Questo sito web mira a darvi più fiducia e preparazione nel prendervi cura di voi stessi, degli amici e dei vostri cari fino a quando non avrete bisogno di un aiuto professionale.
 
-### Self-quarantine
+### Autoquarantena
 
-Until tested and depending on where you are and where you have been, it may be prudent to assume the patient (you? a family member?) has COVID-19. That means self-quarantine at home. No more visitors, a sign on the door, and the patient should not go out unless there is no chance of meeting anyone. Different areas have different standards for what it means to self-quarantine when there are other people in the household. If possible, you will want to err on the side of safety and try to get everything delivered for 2 weeks. Things may change, as in some areas the virus will become so common (endemic) that many people will have had it. There is no telling at what point various authorities will stop testing every potential infection, and it will differ from region to region.
+Fino al test e a seconda di dove vi trovate e dove siete stati, può essere prudente presumere che il paziente (voi? un membro della famiglia?) abbia COVID-19. Questo significa auto-quarantena a casa. Niente più visitatori, un cartello sulla porta e il paziente non deve uscire a meno che non ci sia la possibilità di incontrare qualcuno. Aree diverse hanno standard diversi per ciò che significa auto-quarantena quando ci sono altre persone in casa. Se possibile, si vorrà sbagliare sul lato della sicurezza e cercare di ottenere tutto consegnato per 2 settimane. Le cose possono cambiare, poiché in alcune aree il virus diventerà così comune (endemico) che molte persone lo avranno avuto. Non si sa a che punto le varie autorità smetteranno di testare ogni potenziale infezione, e la situazione sarà diversa da regione a regione.
 
-### Family, flatmates, etc.
+### Famiglia, coinquilini, ecc.
 
-Household members of people who are known or suspected to be infected should treat themselves as potentially also infected and self-quarantine too, while keeping the maximum practicable distance from the patient for as long as the patient can take care of him- or herself. This means being in different rooms, sleeping in different beds, eating separately, using different dishes and towels, and when possible, using different bathrooms. 
+I membri della famiglia di persone che sono note o sospettate di essere infette dovrebbero trattarsi come potenzialmente infette e anche auto-quarantena, mantenendo la massima distanza possibile dal paziente per tutto il tempo in cui il paziente può prendersi cura di lui- o di se stesso. Questo significa stare in camere diverse, dormire in letti diversi, mangiare separatamente, usare piatti e asciugamani diversi e, quando possibile, usare bagni diversi. 
 
-Regularly clean all frequently touched surfaces with household bleach diluted with water: 10 ml / 2 tsp bleach with half a liter / 2 cups of water (carefully washing measurement tools before reuse). You can put that solution in a disused plant sprayer or cleaner spray bottle. You should give the spray a minute to work on surfaces before wiping it dry.
+Pulire regolarmente tutte le superfici toccate frequentemente con candeggina per uso domestico diluita con acqua: 10 ml / 2 cucchiai di candeggina con mezzo litro / 2 tazze di acqua (lavare accuratamente gli strumenti di misurazione prima del riutilizzo). Potete mettere questa soluzione in uno spruzzatore per piante in disuso o in un flacone di spray più pulito. Si dovrebbe dare un minuto di tempo allo spray per lavorare sulle superfici prima di asciugarlo.
 
-Now at the latest is time to think about Personal Protection Equipment (PPE). If you can get masks and haven't been sick yet, it is probably a good idea to wear one. Disposable gloves, long-sleeve protective gowns, and eye protection may also be appropriate. The [shopping page](/shopping) on this website contains some ideas for personal protection items.
+Ora, al più tardi, è il momento di pensare ai dispositivi di protezione individuale (DPI). Se riuscite a procurarvi delle maschere e non siete ancora stati malati, probabilmente è una buona idea indossarne una. Possono essere appropriati anche guanti monouso, camici protettivi a maniche lunghe e protezione per gli occhi. La [pagina shopping](/shopping) di questo sito web contiene alcune idee per gli articoli di protezione personale.
 
-In most places, there will probably come a time when the number of cases skyrockets, many people have already had COVID-19, and authorities will no longer keep records of who has had it and who hasn't. The basis then remain the same: Try to protect older people and people with existing illnesses as much as possible, and try to minimize spread whenever you can, as best you can. Remember: The more we can slow down the disease's spread, the better it is for everyone. Because by slowing the spread (i.e., flattening a potentially exponential curve), you can help lessen how overwhelmed the healthcare system is going to become. That in turn increases the proportion and number of people who need medical care, who are able to access it. This helps doctors and nurses save more lives. 
+Nella maggior parte dei luoghi, probabilmente arriverà un momento in cui il numero di casi andrà alle stelle, molte persone hanno già avuto COVID-19, e le autorità non terranno più traccia di chi l'ha avuto e chi no. La base rimane quindi la stessa: cercare di proteggere il più possibile gli anziani e le persone con malattie esistenti e cercare di ridurre al minimo la diffusione ogni volta che è possibile, nel miglior modo possibile. Ricordate: Più riusciamo a rallentare la diffusione della malattia, meglio è per tutti. Perché rallentando la diffusione (cioè appiattendo una curva potenzialmente esponenziale), si può contribuire a diminuire il grado di sopraffazione del sistema sanitario. Questo a sua volta aumenta la proporzione e il numero di persone che hanno bisogno di cure mediche, che sono in grado di accedervi. Questo aiuta medici e infermieri a salvare più vite. 
 
-### Diary
+### Diario
 
-When symptoms first start is the right time to start an illness diary. 
+Quando i sintomi iniziano per la prima volta è il momento giusto per iniziare un diario di malattia. 
 
-A few times a day, preferably at somewhat regular hours or points in your normal routines or rhythms (e.g., every morning before making coffee or tea), measure temperature, even if you don't feel like you have a fever (yet). Weigh once a day if possible. Also note respiratory and heart rates in breaths and beats per minute. It will get you used to doing these things, give you practise, and (if you start early) give you some idea what (more or less) healthy values for you look like. Not necessary, but extra points for blood pressure and oxygenation (Devices to measure those are cheap, see the [shopping page](/shopping)). 
+Alcune volte al giorno, preferibilmente ad orari o punti della vostra normale routine o del vostro ritmo (ad esempio, ogni mattina prima di preparare il caffè o il tè), misurate la temperatura, anche se non vi sembra di avere la febbre (ancora). Pesare una volta al giorno, se possibile. Si noti anche la frequenza respiratoria e cardiaca nei respiri e nei battiti al minuto. Vi abituerete a fare queste cose, vi darà la possibilità di esercitarvi e (se iniziate presto) vi darà un'idea di quali siano (più o meno) i vostri valori salutari. Non è necessario, ma punti extra per la pressione sanguigna e l'ossigenazione (i dispositivi per misurarli sono economici, vedi la [pagina degli acquisti](/shopping)). 
 
-Then write down any symptoms the patient has. If he or she is in pain, where and when is the pain, and how bad on a scale of 0 (no pain) to 10 (worst pain imaginable)? How bad is the cough? What color if there is mucus being produced? Be sure to note what medication, if any, the patient takes. 
+Poi scrivete tutti i sintomi che il paziente ha. Se soffre, dove e quando soffre, e quanto è grave su una scala da 0 (nessun dolore) a 10 (dolore peggiore immaginabile)? Quanto è grave la tosse? Di che colore è il muco prodotto? Assicuratevi di annotare quali farmaci, se ce ne sono, il paziente prende. 
 
-Paracetamol (also known as acetaminophen) is a good choice for fever and pain suppression. Keeping an illness diary will also help you to keep track of how much you've taken, when, to ensure you treat fever adequately without taking more than the recommended amount in a 24-hour period.
+Il paracetamolo (noto anche come paracetamolo) è una buona scelta per la soppressione della febbre e del dolore. Tenere un diario di malattia vi aiuterà anche a tenere traccia di quanto avete preso, quando, per assicurarvi di trattare la febbre in modo adeguato senza prendere più della quantità raccomandata in un periodo di 24 ore.
 
-[![](/images/diary-small-slanted.png)](/diary)
+[![](/images/diary-small-slanted.png)](/diario)
 
-#### Printable illness diary
+#### Diario di malattia stampabile
 
-We made a **[printable illness diary](/diary)** that you can use to write down all the information you collect when you take temperature, breathing rate, etc. Please check out the form and our webpage about it via the link above.
+Abbiamo fatto un **[diario di malattia stampabile](/diario)** che potete usare per scrivere tutte le informazioni che raccogliete quando prendete la temperatura, la frequenza respiratoria, ecc. Si prega di controllare il modulo e la nostra pagina web su di esso tramite il link qui sopra.
 
-### Get healthy again
+### Torna in salute
 
-Treat pain and fever with over-the-counter medication at the recommended safe dosages. Use paracetamol (also known as acetaminophen) if you can. Questions are emerging surrounding the safety of ibuprofen / non-steroidal anti-inflammatory medications as well as corticosteroids / steroidal anti-inflammatory medications, in case of coronavirus. If possible, avoid their use if you have symptoms. Getting in and out of the bath or shower can also help lower body temperature (even when the water temperature is comfortable - you don't want to accidentally raise your core body temperature by making yourself shiver). 
+Trattare il dolore e la febbre con farmaci da banco ai dosaggi consigliati e sicuri. Utilizzare paracetamolo (noto anche come paracetamolo) se possibile. Stanno emergendo domande sulla sicurezza dell'ibuprofene / farmaci antinfiammatori non steroidei e corticosteroidi / farmaci antinfiammatori steroidei, in caso di coronavirus. Se possibile, evitatene l'uso se avete dei sintomi. Entrare e uscire dalla vasca da bagno o dalla doccia può anche aiutare ad abbassare la temperatura corporea (anche quando la temperatura dell'acqua è confortevole - non si vuole aumentare accidentalmente la temperatura corporea del proprio corpo facendosi venire i brividi). 
 
-Try to keep eating nutritious food. Nothing too heavy, not too much at the same time. Lots of vitamins and fresh produce. Adequate carbohydrates (potatoes, rice, pasta, etc). Inhale steam 3+ times a day. Go for a daily walk when possible, while keeping distance from other people. If your throat is irritated, avoid acidic drinks (such as soda and juice) as they can be further irritating; water and teas are better choices then. 
+Cercate di continuare a mangiare cibo nutriente. Niente di troppo pesante, non troppo allo stesso tempo. Tante vitamine e prodotti freschi. Adeguati carboidrati (patate, riso, pasta, ecc.). Inalare vapore 3+ volte al giorno. Andate a fare una passeggiata quotidiana quando possibile, tenendovi a distanza dalle altre persone. Se la gola è irritata, evitate le bevande acide (come soda e succhi di frutta) perché possono essere ulteriormente irritanti; acqua e tè sono scelte migliori. 
 
-Notice the color and amount of your urine. If it is dark (more colored than clear), or there is not a lot, drink more water. It is very important to avoid and treat dehydration by drinking enough, even though it can be hard to drink enough when you have a fever / are sweating a lot, and are suffering from fatigue and discomfort due to illness. If you are struggling to drink enough and beginning to show signs of dehydration like darker urine, you might also try eating foods containing more water (e.g., cucumber, oranges, apples), sipping on boullion or soup, or setting a small goal for yourself (e.g., every time you get up, drink a glass of water). 
+Notate il colore e la quantità di urina. Se è scuro (più colorato che chiaro), o non c'è molto, bere più acqua. È molto importante evitare e curare la disidratazione bevendo abbastanza, anche se può essere difficile bere abbastanza quando si ha la febbre / si suda molto, e si soffre di stanchezza e disagio a causa di malattie. Se avete difficoltà a bere a sufficienza e cominciate a mostrare segni di disidratazione come urine più scure, potreste anche provare a mangiare cibi che contengono più acqua (ad esempio, cetrioli, arance, mele), sorseggiando un boullion o una zuppa, o ponendovi un piccolo obiettivo (ad esempio, ogni volta che vi alzate, bevete un bicchiere d'acqua). 
 
-Coughing can be an important, healthy effort on the part of the body to clear the lungs of fluid so you can breathe easier. Do not suppress a productive cough all the time / just because you don't want to be coughing. However, if you want to try to suppress your cough enough to get a good night's sleep so your body can better heal itself, then over-the-counter cough medications, herbal teas such as anise / chamomile, cocoa, and lozenges can help. Some over-the-counter cough medications contain ingredients like guaifenesin or NAC, generally considered safe mucolytics that relieve coughing by helping your body get rid of mucus (usually by making it thinner and so easier to cough up); your pharmacist can help you find one that's right for you. 
+La tosse può essere uno sforzo importante e salutare da parte del corpo per liberare i polmoni dal liquido, in modo da poter respirare più facilmente. Non reprimere sempre una tosse produttiva / solo perché non si vuole tossire. Tuttavia, se si vuole cercare di sopprimere la tosse abbastanza per ottenere una buona notte di sonno in modo che il corpo possa guarire meglio, allora i farmaci da banco per la tosse, tisane come anice / camomilla, cacao e pastiglie possono aiutare. Alcuni farmaci da banco per la tosse contengono ingredienti come la guaifenesina o la NAC, generalmente considerati mucolitici sicuri che alleviano la tosse aiutando il vostro corpo a liberarsi del muco (di solito rendendolo più sottile e quindi più facile da tossire); il vostro farmacista può aiutarvi a trovarne uno adatto a voi. 
 
-### Feeling better?
+### Ti senti meglio?
 
-Before you break your quarantine, health authorities may want to (re)test you to see you are really not contagious anymore. But maybe the number of cases is already so high that people will have to make their own decisions. Err on the side of safety and try to stay home for a little longer than officially indicated. 
+Prima di rompere la quarantena, le autorità sanitarie potrebbero volerla (ri)sottoporre a un test per verificare che non sia più contagiosa. Ma forse il numero di casi è già così alto che le persone dovranno prendere le proprie decisioni. Err sul lato della sicurezza e cercare di rimanere a casa un po' più a lungo di quanto ufficialmente indicato. 
 
-If you managed to get tested, yay! You now know that your body (presumably, keep watching the latest science on this) has built immunity. Which means that this thing is over for you, and also that you are a more logical choice to help your family and friends when they get sick. Depending on what state the world is in, you may want to inform your employer and others that might depend on you that you've had it, so they know you're immune.
+Se siete riusciti a fare il test, evviva! Ora sapete che il vostro corpo (presumibilmente, continuate a guardare l'ultima scienza su questo) ha costruito l'immunità. Il che significa che per voi questa cosa è finita, e anche che siete una scelta più logica per aiutare la vostra famiglia e i vostri amici quando si ammalano. A seconda dello stato in cui si trova il mondo, potresti voler informare il tuo datore di lavoro e gli altri che potrebbero dipendere da te che l'hai avuta, in modo che sappiano che sei immune.

@@ -1,35 +1,35 @@
-This website was made as a result of the COVID-19 pandemic, but much of the advice may be applicable in other situations. Much of what's discussed here may be common sense to some, but we felt it's still good to have some checklists and advice for various stages of illness in one place. While we consulted with nurses and doctors on much of this advice, most of this text was written by the non-medically trained, trying to puzzle together what makes sense in this new situation. 
+è stato realizzato grazie al sito web COVID-19 pandemia, ma gran parte dei consigli possono essere applicabili in altre situazioni. Molto di ciò che è stato discusso qui può essere di buon senso per alcuni, ma abbiamo ritenuto che sia comunque bene avere alcune liste di controllo e consigli per i vari stadi della malattia in un unico luogo. Mentre ci siamo consultati con infermieri e medici su gran parte di questi consigli, la maggior parte di questo testo è stata scritta da persone che non hanno una formazione medica, cercando di mettere insieme ciò che ha senso in questa nuova situazione. 
 
-To be clear: **LISTEN TO LOCAL HEALTH AUTHORITIES, DOCTORS AND NURSES** when given the choice between that and something you found on the internet.
+Per essere chiari: **Ascolta le autorità sanitarie locali, i medici e gli infermieri** quando ti viene data la possibilità di scegliere tra questo e qualcosa che hai trovato su internet.
 
-As we started writing for this site in Berlin, Germany in the second week of March 2020, much about the virus was still unclear, but numbers of infected and dead were rising steadily, most recently in Italy. While it is not now - nor is it ever - a good time to panic, we do think it is now time to think and prepare.
+Come abbiamo iniziato a scrivere per questo sito a Berlino, in Germania, nella seconda settimana di marzo 2020, molto sul virus non era ancora chiaro, ma il numero di infetti e di morti era in costante aumento, da ultimo in Italia. Anche se non è né ora né mai un buon momento per farsi prendere dal panico, pensiamo che sia giunto il momento di pensare e di prepararsi.
 
 ![](/images/virus.png)
 
-This guide is based on the assumption that in the coming months, more people than usual will either become ill or have ill people in their lives. Let's all hope for the best, but we're going to assume that doctors and hospitals are going to be very busy if not overloaded. We have to confront the possibility that some of the people who would normally be cared for under medical supervision might need to be cared for at home. We hope some of the information here will give you some confidence in dealing with this disease, which in and by itself will reduce the load on doctors and nurses who, from the looks of it, will be quite busy in weeks and months to come. At the same time, we hope to give you information that helps you tell when it is time to get professional medical help. Getting large amounts of people to get that balance right may make all the difference in the time to come. 
+Questa guida si basa sul presupposto che nei prossimi mesi, più persone del solito si ammaleranno o si ammaleranno nella loro vita. Speriamo tutti per il meglio, ma supponiamo che i medici e gli ospedali saranno molto occupati se non sovraccarichi. Dobbiamo confrontarci con la possibilità che alcune delle persone che normalmente sarebbero assistite sotto controllo medico abbiano bisogno di essere curate a casa. Ci auguriamo che alcune delle informazioni qui riportate vi diano un po' di fiducia nell'affrontare questa malattia, che di per sé ridurrà il carico di medici e infermieri che, a quanto pare, saranno abbastanza occupati nelle settimane e nei mesi a venire. Allo stesso tempo, speriamo di potervi dare informazioni che vi aiutino a capire quando è il momento di ottenere un aiuto medico professionale. Far sì che un gran numero di persone riesca a trovare il giusto equilibrio può fare la differenza nel tempo a venire. 
 
-This guide contains general advice that should be applicable in many places. We may add information that is specific to certain countries or regions, but you should keep your eyes open for more specific information from other credible sources that is more local to where you are.
+Questa guida contiene consigli generali che dovrebbero essere applicabili in molti luoghi. Potremmo aggiungere informazioni specifiche per alcuni paesi o regioni, ma dovreste tenere gli occhi aperti per ottenere informazioni più specifiche da altre fonti credibili e più locali.
 
-*At this point the site uses metric units in many places, although sometimes both metric and imperial units are provided. We hope to offer metric and imperial versions of everything in the next few days.*
+*A questo punto il sito utilizza unità metriche in molti luoghi, anche se a volte vengono fornite sia unità metriche che imperiali. Speriamo di offrire versioni metriche e imperiali di tutto nei prossimi giorni.*
 
-> **YOU CAN HELP MAKE THIS SITE BETTER.** *If you see something that could be better, please [click here](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) to file an issue. As you can see there the backend of this website is on Github, so if you know that environment you can probably think of other ways to help. To be successful, this will need to be an expanding collaborative effort.*
+*Se vedi qualcosa che potrebbe essere migliore, per favore [clicca qui](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) per presentare un problema. Come potete vedere il backend di questo sito web è su Github, quindi se conoscete quell'ambiente potete probabilmente pensare ad altri modi per aiutare. Per avere successo, questo dovrà essere uno sforzo collaborativo in espansione.*
 
-&nbsp; 
+&nbsp;
 
-{% include_relative level1.md %}
+{% include_livello_relativo1.md %}
 
-&nbsp; 
+&nbsp;
 
-{% include_relative level2.md %}
+{% include_livello relativo2.md %}
 
-&nbsp; 
+&nbsp;
  
-{% include_relative level3.md %}
+{% include_livello relativo3.md %}
             
-&nbsp; 
+&nbsp;
  
-{% include_relative level4.md %}
+{% include_livello relativo4.md %}
         
-&nbsp; 
+&nbsp;
  
-{% include_relative level5.md %}
+{% include_livello relativo5.md %}

@@ -1,70 +1,71 @@
-## Level 4 -- Professionals Take Over
+## Livello 4 -- I professionisti prendono il sopravvento
 
-As symptoms get worse and the patient deteriorates, the frequency with which measurements are taken should go up. At this point, your log should contain temperature, respiration, and heart rate every few hours.
+Man mano che i sintomi peggiorano e il paziente si deteriora, la frequenza con cui vengono effettuate le misurazioni dovrebbe aumentare. A questo punto, il vostro registro dovrebbe contenere la temperatura, la respirazione e la frequenza cardiaca ogni poche ore.
 
-You should interpret any of the following as a medical emergency:
+Si dovrebbe interpretare uno dei seguenti elementi come un'emergenza medica:
 
-### Loss of consciousness
+### Perdita di conoscenza
 
-There's different levels. When patient loses consciousness, make a note of whether the patient responds when you call their name (Voice), when you pinch the shoulder forcefully (Pain) or whether he/she does not respond at all (Unresponsive)
+Ci sono diversi livelli. Quando il paziente perde conoscenza, prendete nota se il paziente risponde quando lo chiamate (Voce), quando pizzicate la spalla con forza (Dolore) o se non risponde affatto (Non risponde)
 
-If loss of consciousness is brief, home care may include encouraging the patient to eat and drink, and freshly ventilating the room. But if this persists, get help.
+Se la perdita di conoscenza è breve, l'assistenza domiciliare può includere l'incoraggiamento del paziente a mangiare e bere e la ventilazione della stanza. Ma se questo persiste, chiedete aiuto.
 
-### Cognitive problems / confusion
+### Problemi cognitivi / confusione
 
-You probably know the patient, so you should be able to tell without any fancy tests if / when they are not with it anymore. But here's the Abbreviated Mental Test Score (the AMTS) sometimes used to assess for cognitive problems. Compile the score by asking the following questions, giving one point for each correct answer. A score of less than or equal to 8 suggests cognitive problems may be present. 
+Probabilmente conoscete il paziente, quindi dovreste essere in grado di capire, senza dover fare test stravaganti, se / quando non è più con lui. Ma ecco il punteggio Abbreviated Mental Test Score (l'AMTS) usato a volte per valutare i problemi cognitivi. Compila il punteggio ponendo le seguenti domande, dando un punto per ogni risposta corretta. Un punteggio inferiore o uguale a 8 suggerisce la presenza di problemi cognitivi. 
 
-- What is your age? 
-- What is the time to the nearest hour? 
-- (Give the patient an address, and ask him or her to repeat it at the end of the test. For example, 42 Hacker Way.) 
-- What year is it? 
-- What is the name of the person you are seeing today?
-- (Can the patient recognize two persons (e.g., friends or medical practitioners)?) 
-- What is your date of birth? 
-- In what year did World War II end? 
-- Name the current President / Prime Minister. 
-- Count backwards from 10 down to 1.
+- Qual è la tua età? 
+- Qual è l'ora più vicina? 
+- (Dare al paziente un indirizzo e chiedergli di ripeterlo alla fine del test. Per esempio, 42 Hacker Way). 
+- In che anno siamo? 
+- Come si chiama la persona che vedete oggi?
+- (Il paziente è in grado di riconoscere due persone (ad esempio, amici o medici)? 
+- Qual è la sua data di nascita? 
+- In quale anno si è conclusa la Seconda Guerra Mondiale? 
+- Nominare l'attuale presidente/primo ministro. 
+- Contare all'indietro da 10 a 1.
 
-Immediate home care for cognitive problems / confusion may include encouraging the patient to eat and drink, being sure appropriate fever medication has been taken on schedule, and freshly ventilating the room. But really, again, new and persistent confusion is a bad sign. Time to get help.
+L'assistenza domiciliare immediata per problemi cognitivi/confusione può includere l'incoraggiamento del paziente a mangiare e bere, la certezza che siano stati presi i farmaci appropriati per la febbre secondo il programma e la ventilazione della stanza. Ma in realtà, ancora una volta, la confusione nuova e persistente è un brutto segno. E' ora di chiedere aiuto.
 
-### Too high or too low respiration rate
+### Tasso di respirazione troppo alto o troppo basso
 
-Count respirations per minute by holding your hand close enough to feel the patient's breath, watching his or her chest, and / or watching his or her abdomen, while holding a clock with a second hand or a digital watch / phone stopwatch. Respiration rate (RR) should be between 12 and 20 breaths per minute. 
+Contare le respirazioni al minuto tenendo la mano abbastanza vicina da sentire il respiro del paziente, guardando il suo torace, e/o guardando il suo addome, mentre si tiene un orologio con una lancetta dei secondi o un orologio digitale / cronometro del telefono. Il tasso di respirazione (RR) dovrebbe essere compreso tra 12 e 20 respiri al minuto. 
 
-Immediate home care for respiratory problems may include ventilating the patient's room and propping him or her up so that he or she can be in an upright but comfortably resting position. It is also a good idea to elevate the head of the bed for sleeping if possible, and there are some sleeping positions that can make breathing easier, too (see Level 3, Care work).
+L'assistenza domiciliare immediata per i problemi respiratori può comprendere la ventilazione della stanza del paziente e il puntellamento del paziente in modo che possa stare in posizione eretta ma comodamente a riposo. È anche una buona idea sollevare la testata del letto per dormire, se possibile, e ci sono alcune posizioni di sonno che possono rendere più facile anche la respirazione (vedi Livello 3, Lavoro di cura).
 
 ![](/images/dyspnoe.png)
 
-If you or the patient are experiencing shortness of breath / labored breathing, seek medical advice. 
+Se voi o il paziente soffrite di mancanza di respiro / respiro affannoso, consultate un medico. 
 
-### Low oxygen saturation
+### Bassa saturazione di ossigeno
 
-If you have an oxymeter (see [shopping page](/shopping)), any oxygen saturation lower than 95%  may indicate a respiratory problem. If at any stage the patient's **lips or fingertips turn blue** (or even mildly blue) (called cyanosis), call an ambulance! Anything less than 96%, get fresh air into the patient's room, and get him or her warm.
+Se si dispone di un ossimetro (vedi [pagina acquisti](/shopping)), qualsiasi saturazione di ossigeno inferiore al 95% può indicare un problema respiratorio. Se in qualsiasi momento i **lip o i polpastrelli del paziente diventano blu** (o anche leggermente blu) (chiamati cianosi), chiamate un'ambulanza! Se la percentuale è inferiore al 96%, portate aria fresca nella stanza del paziente e riscaldatelo.
 
 ![](/images/cyanosis.png)
 
-(Also call a doctor if the fingers, toes or lips turn less blue than this...)
+(Chiamare anche un medico se le dita delle mani, dei piedi o le labbra diventano meno blu di così...)
 
-If the patient's skin gets a lacy purple overlay (also called livedo reticularis) like below (and that's not normal for the patient), that is also a reason to call for help.
+Se la pelle del paziente riceve una copertura di pizzo viola (chiamata anche livedo reticularis) come sotto (e questo non è normale per il paziente), anche questo è un motivo per chiedere aiuto.
 
 ![](/images/livedo-reticularis.png)
 
-### Very low blood pressure
+### Pressione sanguigna molto bassa
 
-Blood pressure lower than the bottom of the normal range (90 mmHg systolic, 60 mmHg diastolic) is cause for concern. Note that blood pressure comes as two numbers, the systolic and diastolic pressure. If you have a cheap automatic device it should tell you both these numbers. If you have a device, note the systolic pressure on the [diary form](/images/covid-diary.pdf).
+La pressione sanguigna inferiore al fondo del range normale (90 mmHg sistolica, 60 mmHg diastolica) è motivo di preoccupazione. Si noti che la pressione sanguigna si presenta come due numeri, la pressione sistolica e la pressione diastolica. Se avete un dispositivo automatico a buon mercato, dovrebbe dirvi entrambi questi numeri. Se si dispone di un apparecchio, annotare la pressione sistolica sul [modulo diario](/images/covid-diary.pdf).
 
-If you do not have a device to measure blood pressure or have trouble getting a reading, then try testing the patient's capillary refill time instead. Check by placing his or her fingers flat on a hard surface. Use your finger to press down on one of his or fingernails from the top. The fingernail should lose color. Check how long it takes the fingernail to turn its normal color again. It should take 1-2 seconds. Longer than that may indicate low blood pressure. It could also be a symptom of dehydration. 
+Se non si dispone di un dispositivo per misurare la pressione sanguigna o si hanno problemi a ottenere una lettura, provare invece a testare il tempo di ricarica capillare del paziente. Controllare mettendo le dita piatte su una superficie dura. Usa il dito per premere su una delle sue unghie dall'alto. L'unghia dovrebbe perdere colore. Controllare quanto tempo ci mette l'unghia a tornare del colore normale. Dovrebbero volerci 1-2 secondi. Più a lungo di così può indicare bassa pressione sanguigna. Potrebbe anche essere un sintomo di disidratazione. 
 
-Dehydration is a common cause of low blood pressure, so immediate home care may include encouraging the patient to eat and drink, especially foods or beverages containing essential electrolytes like potassium and sodium. Dizziness is a common symptom of low blood pressure, so the dizzy patient will want to be careful while changing positions (laying to sitting up, sitting to standing); fainting may occur. But really, once again, if things do not look right somehow - if blood pressure is very low, or if the patient normally has high blood pressure and it's looking much lower than their normal - again, get help.
+La disidratazione è una causa comune di bassa pressione sanguigna, quindi l'assistenza domiciliare immediata può includere l'incoraggiamento del paziente a mangiare e bere, soprattutto cibi o bevande contenenti elettroliti essenziali come il potassio e il sodio. Le vertigini sono un sintomo comune della bassa pressione sanguigna, quindi il paziente con vertigini vorrà stare attento mentre cambia posizione (da sdraiato a seduto in su, da seduto a in piedi); possono verificarsi svenimenti. Ma davvero, ancora una volta, se le cose non vanno bene in qualche modo - se la pressione sanguigna è molto bassa, o se il paziente ha normalmente la pressione alta e sembra molto più bassa del normale - ancora una volta, chiedete aiuto.
 
-### Too high or too low heart rate
+### Battito cardiaco troppo alto o troppo basso
 
-Heart rate is easier to measure than blood pressure, and usually high heart rate (above 100-110 beats per minute for an adult) goes with low blood pressure. Smaller people and children often have normally higher heart rates. High heart rate alone may not be cause for alarm, as it may indicate anxiety or dehydration. Relaxation techniques and drinking / eating something might be appropriate. But once again, values outside the normal range here should cue you to seek medical help immediately. This is especially true if you see rapid breathing along with low blood pressure or high heart rate and / or confusion. 
+La frequenza cardiaca è più facile da misurare rispetto alla pressione sanguigna, e di solito una frequenza cardiaca elevata (superiore a 100-110 battiti al minuto per un adulto) si accompagna a una pressione sanguigna bassa. Le persone più piccole e i bambini hanno spesso tassi cardiaci normalmente più elevati. L'elevata frequenza cardiaca da sola può non essere motivo di allarme, in quanto può indicare ansia o disidratazione. Le tecniche di rilassamento e il bere/mangiare qualcosa potrebbero essere appropriati. Ma ancora una volta, i valori al di fuori della gamma normale dovrebbero indurvi a cercare immediatamente un aiuto medico. Questo è particolarmente vero se si vede la respirazione rapida insieme con la pressione sanguigna bassa o la frequenza cardiaca alta e / o confusione. 
 
-### Very high fever that comes (back) suddenly
+### Febbre altissima che ritorna improvvisamente
 
-If you check temperatures regularly, you will want to be aware that the trend can reverse suddenly, even when the patient seemed to be doing better earlier. Regular measurements are important. A fever that is very high (> 39° Celsius) is a cue to seek medical help. So is a fever that goes away and then comes back suddenly. 
+Se si controllano regolarmente le temperature, si vuole essere consapevoli che la tendenza può invertirsi improvvisamente, anche quando il paziente sembrava stare meglio prima. Le misurazioni regolari sono importanti. Una febbre molto alta (> 39° Celsius) è uno spunto per cercare aiuto medico. Così è una febbre che va via e poi torna all'improvviso. 
 
-### Call for help
+### Chiama aiuto
 
-When any of the above symptoms occur, things are serious! If at all possible, this is the point where you should not be taking any decisions based on a guide from the internet anymore. Do not wait for things to get worse. Call a doctor, or call the emergency number and get the patient in an ambulance pronto. Stay calm and report the situation as it is. Your job is done: You have kept a patient out of the medical system while he or she was just sick. Now it's time for professionals to handle it. The data you have been gathering should hopefully help you convince the operator, ambulance people, and doctors that you are not merely panicking for no reason and will likely help get the patient the care he or she needs sooner.
+Quando si verifica uno dei sintomi di cui sopra, le cose sono gravi! Se possibile, questo è il punto in cui non dovreste più prendere decisioni basate su una guida di internet. Non aspettare che le cose peggiorino. Chiamare un medico, oppure chiamare il numero di emergenza e far salire il paziente su un'ambulanza. Rimanete calmi e riferite la situazione così com'è. Il tuo lavoro è finito: Avete tenuto un paziente fuori dal sistema medico mentre era solo malato. Ora è il momento che se ne occupino i professionisti. I dati che avete raccolto dovrebbero aiutarvi a convincere l'operatore, gli addetti alle ambulanze e i medici che non vi state semplicemente facendo prendere dal panico senza motivo e che probabilmente aiuterete il paziente a ricevere prima le cure di cui ha bisogno.
+C'e' stato un incidente, e' stato un incidente, e' stato un incidente.
