@@ -14,22 +14,22 @@ Questa guida contiene consigli generali che dovrebbero essere applicabili in mol
 
 *Se vedi qualcosa che potrebbe essere migliore, per favore [clicca qui](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) per presentare un problema. Come potete vedere il backend di questo sito web è su Github, quindi se conoscete quell'ambiente potete probabilmente pensare ad altri modi per aiutare. Per avere successo, questo dovrà essere uno sforzo collaborativo in espansione.*
 
-&nbsp;
+&nbsp; 
 
-{% include_livello_relativo1.md %}
+{% include_relative level1.md %}
 
-&nbsp;
+&nbsp; 
 
-{% include_livello relativo2.md %}
+{% include_relative level2.md %}
 
-&nbsp;
+&nbsp; 
  
-{% include_livello relativo3.md %}
+{% include_relative level3.md %}
             
-&nbsp;
+&nbsp; 
  
-{% include_livello relativo4.md %}
+{% include_relative level4.md %}
         
-&nbsp;
+&nbsp; 
  
-{% include_livello relativo5.md %}
+{% include_relative level5.md %}
