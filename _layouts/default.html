@@ -25,14 +25,21 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
 
-          <a href="https://www.covid-a-casa.info/"><h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1></a>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-          
+          <div class="languages">
+            {% for language in site.data.languages.languages %}
+              {% if language.url != site.url %}
+                <div class="item"><a href="{{ language.url }}">{{ language.title }}</a></div>
+              {% endif %}
+            {% endfor %}
+          </div>
+
+          <a href="{{ site.url }}"><h1 id="project_title">{{ site.title }}</h1></a>
+          <h2 id="project_tagline">{{ site.description }}</h2>
+
           <div class="menu">
-            <div class="item"><a href="/">Main page</a></div>
-            <div class="item"><a href="/shopping">Shopping list</a></div>
-            <div class="item"><a href="/help">I can help!</a></div>            
-            <div class="item"><a href="/about">About</a></div>
+            {% for item in site.data.mainmenu.items %}
+                <div class="item"><a href="{{ item.url }}">{{ item.title }}</a></div>
+            {% endfor %}
           </div>
 
         </header>
@@ -54,8 +61,9 @@
       </footer>
     </div>
 
-	<script data-goatcounter="https://covid-a-casa.goatcounter.com/count" 
-		async src="/count.js"></script>
+    <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count" 
+        async src="/count.js"></script>
   </body>
 </html>
+
 

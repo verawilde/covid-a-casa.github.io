@@ -1,7 +1,6 @@
 theme: jekyll-theme-slate
 title: COVID a Casa
 description: Una guida collaborativa alla cura di COVID-19
-google_analytics: UA-160293705-1
-show_downloads: false
-github:
-  is_project_page: false
+url: https://covid-a-casa.info
+slug: covid-a-casa
+goatcounter: covid-a-casa
