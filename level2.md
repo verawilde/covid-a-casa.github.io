@@ -1,4 +1,4 @@
-## Livello 2 -- Sintomi emergenti
+Livello 2 -- Sintomi emergenti
 
 ![](/images/sneezing-emoji.png)
 
@@ -13,11 +13,11 @@ Si noti se si soffre di uno dei seguenti primi sintomi:
 * Respiro corto
 * Mancanza di fame
 
-I sintomi possono anche includere mal di testa, brividi, vertigini, congestione nasale, dolori addominali, diarrea, nausea e vomito. 
+I sintomi iniziali possono anche includere mal di testa, brividi, vertigini, congestione nasale, dolori addominali, diarrea, nausea e vomito. Più tardi nell'infezione, i sintomi possono includere la perdita dell'odore e del gusto che dura per diversi giorni. 
 
 COVID-19 è diffuso nella comunità in cui vivete? O siete stati in un'area interessata o siete stati intorno a qualcuno che si trovava in un'area interessata? Allora i suoi sintomi potrebbero benissimo essere COVID-19. Ma ricordate: in molti settori, le probabilità che si tratti di qualcos'altro saranno ancora maggiori.
 
-> Nota: La febbre non è soggettiva. Avrete bisogno di un termometro (o due), e per tenere traccia in un registro di almeno la temperatura giornaliera. Se si sceglie di prendere la temperatura internamente (cioè nel fondo / retto), sarà più preciso. Assicuratevi di avere abbastanza salviette e alcol per pulire il termometro dopo ogni utilizzo. Se si prende la temperatura per via orale, non mangiare o bere per 20 minuti prima. In ogni caso, annotate il metodo nel vostro registro in modo che il personale sanitario sappia quale sia. (Circa .7 gradi Celsius è spesso aggiunto alla temperatura orale.) Ecco alcune buone istruzioni per [come prendere una temperatura orale](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
+> Nota: La febbre non è soggettiva. Avrete bisogno di un termometro (o due), e per tenere traccia in un registro di almeno la temperatura giornaliera. Se si sceglie di prendere la temperatura internamente (cioè nel fondo/retto), sarà più precisa. Assicuratevi di avere abbastanza salviette e alcol per pulire il termometro dopo ogni utilizzo. Se si prende la temperatura per via orale, non mangiare o bere per 20 minuti prima. In ogni caso, annotate il metodo nel vostro registro in modo che il personale sanitario sappia quale sia. (Circa .7 gradi Celsius è spesso aggiunto alla temperatura orale.) Ecco alcune buone istruzioni per [come prendere una temperatura orale](https://www.drugs.com/cg/how-to-take-an-oral-temperature.html).
 
 ### Diagnosi
 
@@ -39,9 +39,9 @@ I membri della famiglia di persone che sono note o sospettate di essere infette 
 
 Pulire regolarmente tutte le superfici toccate frequentemente con candeggina per uso domestico diluita con acqua: 10 ml / 2 cucchiai di candeggina con mezzo litro / 2 tazze di acqua (lavare accuratamente gli strumenti di misurazione prima del riutilizzo). Potete mettere questa soluzione in uno spruzzatore per piante in disuso o in un flacone di spray più pulito. Si dovrebbe dare un minuto di tempo allo spray per lavorare sulle superfici prima di asciugarlo.
 
-Ora, al più tardi, è il momento di pensare ai dispositivi di protezione individuale (DPI). Se riuscite a procurarvi delle maschere e non siete ancora stati malati, probabilmente è una buona idea indossarne una. Possono essere appropriati anche guanti monouso, camici protettivi a maniche lunghe e protezione per gli occhi. La [pagina shopping](/shopping) di questo sito web contiene alcune idee per gli articoli di protezione personale.
+Ora, al più tardi, è il momento di pensare ai dispositivi di protezione individuale (DPI). Se riuscite a procurarvi delle maschere, indossatene una. Possono essere appropriati anche guanti monouso, camici protettivi a maniche lunghe e protezione per gli occhi. La [pagina degli acquisti](/shopping) di questo sito web contiene alcune idee per gli articoli di protezione personale, nonché importanti informazioni su quando e come utilizzarli.
 
-Nella maggior parte dei luoghi, probabilmente arriverà un momento in cui il numero di casi andrà alle stelle, molte persone hanno già avuto COVID-19, e le autorità non terranno più traccia di chi l'ha avuto e chi no. La base rimane quindi la stessa: cercare di proteggere il più possibile gli anziani e le persone con malattie esistenti e cercare di ridurre al minimo la diffusione ogni volta che è possibile, nel miglior modo possibile. Ricordate: Più riusciamo a rallentare la diffusione della malattia, meglio è per tutti. Perché rallentando la diffusione (cioè appiattendo una curva potenzialmente esponenziale), si può contribuire a diminuire il grado di sopraffazione del sistema sanitario. Questo a sua volta aumenta la proporzione e il numero di persone che hanno bisogno di cure mediche, che sono in grado di accedervi. Questo aiuta medici e infermieri a salvare più vite. 
+Nella maggior parte dei luoghi, probabilmente arriverà un momento in cui il numero di casi andrà alle stelle, molte persone hanno già avuto COVID-19, e le autorità non terranno più traccia di chi l'ha avuto e chi no. La base rimane quindi la stessa: cercare di proteggere il più possibile gli anziani e le persone con malattie esistenti e cercare di ridurre al minimo la diffusione ogni volta che è possibile, nel miglior modo possibile. Ricordate: Più riusciamo a rallentare o a ridurre del tutto la diffusione della malattia, meglio è per tutti. Perché aiutando a rallentare o a fermare la diffusione, si può contribuire a ridurre la pressione sul sistema sanitario. Questo a sua volta aumenta la proporzione e il numero di persone che hanno bisogno di cure mediche, che sono in grado di accedervi. Questo aiuta medici e infermieri a salvare più vite. 
 
 ### Diario
 
@@ -61,7 +61,7 @@ Abbiamo fatto un **[diario di malattia stampabile](/diario)** che potete usare p
 
 ### Torna in salute
 
-Trattare il dolore e la febbre con farmaci da banco ai dosaggi consigliati e sicuri. Utilizzare paracetamolo (noto anche come paracetamolo) se possibile. Stanno emergendo domande sulla sicurezza dell'ibuprofene / farmaci antinfiammatori non steroidei e corticosteroidi / farmaci antinfiammatori steroidei, in caso di coronavirus. Se possibile, evitatene l'uso se avete dei sintomi. Entrare e uscire dalla vasca da bagno o dalla doccia può anche aiutare ad abbassare la temperatura corporea (anche quando la temperatura dell'acqua è confortevole - non si vuole aumentare accidentalmente la temperatura corporea del proprio corpo facendosi venire i brividi). 
+Trattare il dolore e la febbre con farmaci da banco ai dosaggi consigliati e sicuri. Utilizzare paracetamolo (noto anche come paracetamolo) se possibile. Stanno emergendo domande sulla sicurezza dell'ibuprofene / farmaci antinfiammatori non steroidei e corticosteroidi / farmaci antinfiammatori steroidei, in caso di coronavirus. Se possibile, evitatene l'uso se avete dei sintomi. Un altro modo sicuro per curare la febbre è fare il bagno o la doccia. La temperatura dell'acqua dovrebbe essere confortevole, non fredda, perché i brividi possono far salire la temperatura del corpo centrale - e l'idea è di abbassarla. Quando si esce dalla vasca da bagno o dalla doccia, gli avanzi d'acqua che evaporano come il sudore della pelle possono aiutare ad abbassare la temperatura. 
 
 Cercate di continuare a mangiare cibo nutriente. Niente di troppo pesante, non troppo allo stesso tempo. Tante vitamine e prodotti freschi. Adeguati carboidrati (patate, riso, pasta, ecc.). Inalare vapore 3+ volte al giorno. Andate a fare una passeggiata quotidiana quando possibile, tenendovi a distanza dalle altre persone. Se la gola è irritata, evitate le bevande acide (come soda e succhi di frutta) perché possono essere ulteriormente irritanti; acqua e tè sono scelte migliori. 
 
@@ -71,6 +71,6 @@ La tosse può essere uno sforzo importante e salutare da parte del corpo per lib
 
 ### Ti senti meglio?
 
-Prima di rompere la quarantena, le autorità sanitarie potrebbero volerla (ri)sottoporre a un test per verificare che non sia più contagiosa. Ma forse il numero di casi è già così alto che le persone dovranno prendere le proprie decisioni. Err sul lato della sicurezza e cercare di rimanere a casa un po' più a lungo di quanto ufficialmente indicato. 
+Prima di rompere la quarantena, le autorità sanitarie potrebbero volerla (ri)sottoporre a un test per verificare che non sia più contagiosa. Ma forse il numero di casi è già così alto che le persone dovranno prendere le proprie decisioni. Err sul lato della sicurezza e cercare di rimanere a casa un po' più a lungo di quanto ufficialmente indicato. La [raccomandazione dell'Organizzazione Mondiale della Sanità] (https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020) prevede di continuare l'isolamento per almeno due settimane dopo la scomparsa dei sintomi, anche se non ci si sente più male. 
 
 Se siete riusciti a fare il test, evviva! Ora sapete che il vostro corpo (presumibilmente, continuate a guardare l'ultima scienza su questo) ha costruito l'immunità. Il che significa che per voi questa cosa è finita, e anche che siete una scelta più logica per aiutare la vostra famiglia e i vostri amici quando si ammalano. A seconda dello stato in cui si trova il mondo, potresti voler informare il tuo datore di lavoro e gli altri che potrebbero dipendere da te che l'hai avuta, in modo che sappiano che sei immune.

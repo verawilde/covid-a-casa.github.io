@@ -6,7 +6,7 @@ Tutto ciò che è elencato ha un buon profilo di sicurezza (cioè gli effetti co
 
 Soprattutto, **non prendete questa lista come consiglio medico (non siamo medici) e non usate nulla di tutto ciò come sostituto di un trattamento regolare**. Si chiama "complementare" perché può completare il vero affare - non lo sostituisce. 
 
-* [Quercetina](https://articles.mercola.com/sites/articles/archive/2018/02/26/quercetin-for-flu.aspx), un antiossidante, protegge dalle infezioni virali. 
+* [Quercetina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3360794/), un antiossidante, mostra attività antivirale in vivo e in vitro, oltre a diminuire l'incidenza di [infezioni delle vie respiratorie superiori](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4863266/), senza effetti avversi apparenti. 
 * [Sambuco](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), una fonte naturale di quercetina, presente in vari preparati (per esempio, [Sambucol](https://www.amazon.de/dp/B005039D78/ref=sr_1_8?keywords=sambucol&qid=1584023224&sr=8-8)).
 * [Colostro bovino](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), il latte vaccino precoce, conferisce benefici immunitari grazie alla sua ricca gamma di nutrienti e composti bioattivi, compresi i fattori immunitari e antimicrobici.
 * [Probiotici](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6124954/), microrganismi vivi che si trovano come integratori o in alimenti fermentati come lo yogurt, possono ridurre il rischio, la gravità e la durata delle infezioni delle vie respiratorie superiori. 

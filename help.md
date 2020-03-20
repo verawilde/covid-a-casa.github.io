@@ -1,4 +1,4 @@
-Abbiamo davvero bisogno di aiuto
+## Abbiamo davvero bisogno di aiuto
 
 Se questa vi sembra un'operazione semplice e snella, vi sbagliate. Siamo un piccolo gruppo di volontari, per lo più senza una formazione medica, che lo sta facendo a braccio, perché riteniamo che queste informazioni non siano in un unico luogo e che debbano esserlo molto presto. Mentre scriviamo questo non abbiamo fatto molto altro da una settimana ormai, e ci farebbe davvero comodo un aiuto nei seguenti settori:
 
@@ -20,7 +20,7 @@ Siate benedetti se siete un medico, un infermiere o un funzionario della sanità
 
 #### Correzione di bozze
 
-Garantiamo che ci saranno un sacco di errori di battitura, frasi fallite e peggio. Per favore, brevemente [archiviate un problema](https://github.com/covid-at-home/covid-a-casa.github.io/issues/new) e lo risolveremo.
+Garantiamo che ci saranno un sacco di errori di battitura, frasi fallite e peggio. Per favore, brevemente [archiviate un problema](https://github.com/covid-at-home/covid-at-home.github.io/issues/new) e lo risolveremo.
 
 #### Medicina alternativa
 

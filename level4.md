@@ -1,4 +1,4 @@
-## Livello 4 -- I professionisti prendono il sopravvento
+Livello 4 -- I professionisti prendono il sopravvento
 
 Man mano che i sintomi peggiorano e il paziente si deteriora, la frequenza con cui vengono effettuate le misurazioni dovrebbe aumentare. A questo punto, il vostro registro dovrebbe contenere la temperatura, la respirazione e la frequenza cardiaca ogni poche ore.
 
@@ -8,24 +8,11 @@ Si dovrebbe interpretare uno dei seguenti elementi come un'emergenza medica:
 
 Ci sono diversi livelli. Quando il paziente perde conoscenza, prendete nota se il paziente risponde quando lo chiamate (Voce), quando pizzicate la spalla con forza (Dolore) o se non risponde affatto (Non risponde)
 
-Se la perdita di conoscenza è breve, l'assistenza domiciliare può includere l'incoraggiamento del paziente a mangiare e bere e la ventilazione della stanza. Ma se questo persiste, chiedete aiuto.
+Se la perdita di coscienza è breve, potreste (se il paziente si riprende rapidamente e si risveglia di nuovo completamente!) incoraggiare il paziente a mangiare e bere un po' e a ventilare la stanza di recente. Ma la perdita di coscienza è grave, chiedete aiuto.
 
 ### Problemi cognitivi / confusione
 
-Probabilmente conoscete il paziente, quindi dovreste essere in grado di capire, senza dover fare test stravaganti, se / quando non è più con lui. Ma ecco il punteggio Abbreviated Mental Test Score (l'AMTS) usato a volte per valutare i problemi cognitivi. Compila il punteggio ponendo le seguenti domande, dando un punto per ogni risposta corretta. Un punteggio inferiore o uguale a 8 suggerisce la presenza di problemi cognitivi. 
-
-- Qual è la tua età? 
-- Qual è l'ora più vicina? 
-- (Dare al paziente un indirizzo e chiedergli di ripeterlo alla fine del test. Per esempio, 42 Hacker Way). 
-- In che anno siamo? 
-- Come si chiama la persona che vedete oggi?
-- (Il paziente è in grado di riconoscere due persone (ad esempio, amici o medici)? 
-- Qual è la sua data di nascita? 
-- In quale anno si è conclusa la Seconda Guerra Mondiale? 
-- Nominare l'attuale presidente/primo ministro. 
-- Contare all'indietro da 10 a 1.
-
-L'assistenza domiciliare immediata per problemi cognitivi/confusione può includere l'incoraggiamento del paziente a mangiare e bere, la certezza che siano stati presi i farmaci appropriati per la febbre secondo il programma e la ventilazione della stanza. Ma in realtà, ancora una volta, la confusione nuova e persistente è un brutto segno. E' ora di chiedere aiuto.
+Probabilmente conoscete il paziente, quindi dovreste essere in grado di dire, senza fare test stravaganti, se e quando lui/lei non è più con lui. L'improvvisa comparsa di confusione è un problema. Chiedere assistenza medica.
 
 ### Tasso di respirazione troppo alto o troppo basso
 
@@ -68,4 +55,3 @@ Se si controllano regolarmente le temperature, si vuole essere consapevoli che l
 ### Chiama aiuto
 
 Quando si verifica uno dei sintomi di cui sopra, le cose sono gravi! Se possibile, questo è il punto in cui non dovreste più prendere decisioni basate su una guida di internet. Non aspettare che le cose peggiorino. Chiamare un medico, oppure chiamare il numero di emergenza e far salire il paziente su un'ambulanza. Rimanete calmi e riferite la situazione così com'è. Il tuo lavoro è finito: Avete tenuto un paziente fuori dal sistema medico mentre era solo malato. Ora è il momento che se ne occupino i professionisti. I dati che avete raccolto dovrebbero aiutarvi a convincere l'operatore, gli addetti alle ambulanze e i medici che non vi state semplicemente facendo prendere dal panico senza motivo e che probabilmente aiuterete il paziente a ricevere prima le cure di cui ha bisogno.
-C'e' stato un incidente, e' stato un incidente, e' stato un incidente.

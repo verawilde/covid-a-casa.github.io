@@ -22,7 +22,7 @@ Nella maggior parte dei casi, tuttavia, il paziente migliorerà dopo pochi giorn
 
 ### Lavori di cura
 
-Una parte importante del lavoro che svolgete in questa fase è il lavoro di cura, che può sovrapporsi all'assistenza infermieristica, ma non richiede una formazione specializzata. Ricordate che le persone che hanno bisogno di aiuto per la cura di sé di base a causa di una malattia possono sentirsi in imbarazzo a chiederlo o ad accettarlo. Sii gentile. Tutti hanno bisogno di aiuto a volte. Pensate a come rendere il paziente fisicamente, mentalmente ed emotivamente più a suo agio e bene; potreste farlo chiedendovi di cosa avreste bisogno nella sua posizione, cercando spunti di disagio (ad esempio, brividi, sudorazione), o chiedendo come potete aiutarlo. 
+Una gran parte del lavoro che svolgete in questa fase è il lavoro di cura, che può sovrapporsi all'assistenza infermieristica ma non richiede una formazione specializzata. Ricordate che le persone che hanno bisogno di aiuto per la cura di sé di base a causa di una malattia possono sentirsi in imbarazzo a chiederlo o ad accettarlo. Sii gentile. Tutti hanno bisogno di aiuto a volte. Pensate a come rendere il paziente fisicamente, mentalmente ed emotivamente più a suo agio e bene; potreste farlo chiedendovi di cosa avreste bisogno nella sua posizione, cercando spunti di disagio (ad esempio, brividi, sudorazione), o chiedendo come potete aiutarlo. 
 
 Tra i comportamenti che potrebbero essere utili ci sono:
 * Arrivare all'altezza degli occhi e a una distanza sufficientemente grande per il comfort ma abbastanza piccola da non doversi sforzare a parlare ad alta voce per parlare con voi. 
@@ -60,7 +60,7 @@ Arieggiate la vostra casa il più possibile, magari mentre l'acqua per il tè o 
 
 Mangiate un piccolo pasto nutriente (un pezzo di frutta fresca? una manciata di noci salate?) - qualcosa che vi sembra buono. Questo è anche un buon momento per prendere il paracetamolo (noto anche come paracetamolo) per la febbre / dolore se ne avete bisogno, e annotare la dose e il tempo nel vostro diario di malattia. 
 
-Se lo sforzo è già stato abbastanza, si prenda una pausa. Dormire ogni volta che puoi - il sonno è fondamentale per la guarigione. Se non avete sonno ma avete bisogno di riposare, allora provate a riposare seduti per dare ai vostri polmoni una migliore possibilità di drenaggio. Se siete ancora in piedi, questo è un buon momento per fare vapore per aiutare i vostri seni paranasi/vuoti ad aprire le vie respiratorie e il muco a drenare. 
+Se lo sforzo è già stato abbastanza, si prenda una pausa. Dormire ogni volta che puoi - il sonno è fondamentale per la guarigione. Se non avete sonno ma avete bisogno di riposare, provate a riposare seduti per dare ai vostri polmoni una migliore possibilità di drenaggio. Se siete ancora in piedi, questo è un buon momento per fare vapore per aiutare i vostri seni paranasi/vuoti ad aprire le vie respiratorie e il muco a drenare. 
 
 Continuate a bere tutto il giorno. Alcuni trovano utile svuotare e riempire una bottiglia d'acqua da un litro o una teiera che contiene circa un litro, in modo che sia più facile tenere traccia di quanto si è bevuto all'incirca. Questo rende anche più facile tenere l'acqua vicino al divano o al letto mentre si riposa. 
 

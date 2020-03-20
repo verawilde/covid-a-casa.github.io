@@ -14,18 +14,16 @@ Questo sito è pubblicato sotto una [Creative Commons Attribution-NonCommercial-
 
 Questo sito è migliore perché abbiamo ricevuto aiuto da (in ordine alfabetico):
 
-* Jill Bähring
-* Lucky Green
-* Jakob Richers
-* Katrin Schmidt
-* Andreas Steinhauser
+{% for person in site.data.thankyou.people %}
+* {{ person.name }}
+{% endfor %}
 
 ### Impressum
 
 (La legge tedesca impone ai siti web di elencare un editore).
 
 Rop Gonggrijp & Vera Wilde<br>
-Linienstraße 127<br>
+LinienstraÃŸe 127<br>
 10115 Berlino<br>
 Germania
 
