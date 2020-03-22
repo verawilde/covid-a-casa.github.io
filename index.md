@@ -8,6 +8,8 @@ Quando abbiamo iniziato a scrivere per questo sito a Berlino, in Germania, nella
 
 Questa guida si basa sul presupposto che nei prossimi mesi, più persone del solito si ammaleranno o avranno a che fare con persone malate. Speriamo tutti per il meglio, ma presumiamo che i medici e gli ospedali saranno molto occupati se non sovraccarichi. Dobbiamo confrontarci con la possibilità che alcune delle persone che normalmente sarebbero assistite sotto controllo medico abbiano bisogno di essere curate a casa. Ci auguriamo che alcune delle informazioni qui riportate vi diano un po' di fiducia nell'affrontare questa malattia, che di per sé ridurrà il carico di medici e infermieri che, a quanto pare, saranno abbastanza occupati nelle settimane e nei mesi a venire. Allo stesso tempo, speriamo di potervi dare informazioni che vi aiutino a capire quando è il momento di ottenere un aiuto medico professionale. Far sì che un gran numero di persone riesca a trovare il giusto equilibrio può fare la differenza nel tempo a venire. 
 
+[![](/images/treat-at-home.png)](https://www.statnews.com/2020/03/21/coronavirus-plea-from-italy-treat-patients-at-home/)
+
 Questa guida contiene consigli generali che dovrebbero essere applicabili in molti luoghi. Potremmo aggiungere informazioni specifiche per alcuni paesi o regioni, ma dovreste tenere gli occhi aperti per ottenere informazioni più specifiche da altre fonti credibili e più locali. 
 
 Alcuni degli autori di questo sito web non sono noti come grandi fan del governo e dell'autorità, ma a questo punto la fiducia nelle autorità sanitarie pubbliche è vitale. In caso di discrepanze, fidatevi di fonti affidabili come:
