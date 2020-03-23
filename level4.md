@@ -1,4 +1,4 @@
-Livello 4 -- I professionisti prendono il sopravvento
+## Livello 4 -- I professionisti prendono il sopravvento
 
 Man mano che i sintomi peggiorano e il paziente si deteriora, la frequenza con cui vengono effettuate le misurazioni dovrebbe aumentare. A questo punto, il vostro registro dovrebbe contenere la temperatura, la respirazione e la frequenza cardiaca ogni poche ore.
 
