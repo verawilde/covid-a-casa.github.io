@@ -1,4 +1,4 @@
-Livello 2 -- Sintomi emergenti
+##Livello 2 -- Sintomi emergenti
 
 ![](/images/sneezing-emoji.png)
 
@@ -53,11 +53,11 @@ Poi scrivi tutti i sintomi del paziente. Se soffre, dove e quando soffre, e quan
   
 Il paracetamolo (noto anche come acetaminofene) è una buona scelta per far diminuire la febbre e il dolore. Tenere un diario della malattia ti aiuterà anche a tracciare quanti medicinalli hai preso e quando, per assicurarti di trattare la febbre in modo adeguato senza prenderne più della quantità raccomandata in un periodo di 24 ore.
 
-[![](/images/diary-small-slanted.png)](/diario)
+[![](/images/diary-small-slanted.png)](/diary)
 
 #### Diario della malattia stampabile
 
-Abbiamo fatto un **[diario della malattia stampabile](/diario)** che puoi usare per scrivere tutte le informazioni che raccogli quando ti misuri la febbre, la frequenza respiratoria, ecc. Si prega di controllare il modulo e la nostra pagina web relativa tramite il link qui sopra.
+Abbiamo fatto un **[diario della malattia stampabile](/diary)** che puoi usare per scrivere tutte le informazioni che raccogli quando ti misuri la febbre, la frequenza respiratoria, ecc. Si prega di controllare il modulo e la nostra pagina web relativa tramite il link qui sopra.
 
 ### Ritorno in salute
 
