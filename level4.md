@@ -1,4 +1,4 @@
-Livello 4 -- I professionisti prendono il sopravvento
+## Livello 4 -- I professionisti prendono il sopravvento
 
 Man mano che i sintomi peggiorano e il paziente si deteriora, la frequenza con cui vengono effettuate le misurazioni dovrebbe aumentare. A questo punto, il vostro registro dovrebbe contenere la temperatura, la respirazione e la frequenza cardiaca ogni poche ore.
 
@@ -54,4 +54,4 @@ Se si controllano regolarmente le temperature, si vuole essere consapevoli che l
 
 ### Chiama aiuto
 
-Quando si verifica uno dei sintomi di cui sopra, le cose sono gravi! Se possibile, questo è il punto in cui non dovreste più prendere decisioni basate su una guida di internet. Non aspettare che le cose peggiorino. Chiamare un medico, oppure chiamare il numero di emergenza (numero 1500, non fate il 118). Rimanete calmi e riferite la situazione così com'è. Il tuo lavoro è finito: Avete tenuto un paziente fuori dal sistema medico mentre era solo malato. Ora è il momento che se ne occupino i professionisti. I dati che avete raccolto dovrebbero aiutarvi a convincere l'operatore, gli addetti alle ambulanze e i medici che non vi state semplicemente facendo prendere dal panico senza motivo e che probabilmente aiuterete il paziente a ricevere prima le cure di cui ha bisogno.
+Quando si verifica uno dei sintomi di cui sopra, le cose sono gravi! Se possibile, questo è il punto in cui non dovreste più prendere decisioni basate su una guida di internet. Non aspettare che le cose peggiorino. Chiamare un medico, oppure chiamare il numero di emergenza (numero 1500 or 112, non fate il 118). Rimanete calmi e riferite la situazione così com'è. Il tuo lavoro è finito: Avete tenuto un paziente fuori dal sistema medico mentre era solo malato. Ora è il momento che se ne occupino i professionisti. I dati che avete raccolto dovrebbero aiutarvi a convincere l'operatore, gli addetti alle ambulanze e i medici che non vi state semplicemente facendo prendere dal panico senza motivo e che probabilmente aiuterete il paziente a ricevere prima le cure di cui ha bisogno.
