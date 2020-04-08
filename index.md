@@ -1,6 +1,16 @@
 Questo sito è stato realizzato a causa della pandemia COVID-19 ma gran parte dei consigli possono essere applicabili anche in altre situazioni simili. Molto di ció che si discute qui può sembrare solo buon senso per alcuni ma abbiamo ritenuto che sia comunque bene avere alcune liste di istruzioni e consigli per i vari stadi della malattia in un unico luogo. Nonostante ci siamo consultati con infermieri e medici per la maggioranza di questi consigli, gran parte di questo testo è stata scritta da persone che non hanno una formazione medica, e che si sono sforzate di mettere insieme ciò che ha senso in questa nuova situazione. 
 
-Per essere chiari: **Ascolta le autorità sanitarie locali, i medici e gli infermieri** quando ti viene data la possibilità di scegliere tra questo e qualcosa che hai trovato su internet.
+{{ site.data.tags.disclaimer.begin }}
+
+## LEGGERE ATTENTAMENTE
+
+Per fare chiarezza: **ASCOLTATE LE AUTORITA' LOCALI, I DOTTORI E INFERMIERI** quando avete l'opportunita' di farlo, piuttosto che basarvi solamente su quello che si trova online. 
+
+Le informazioni su questo sito sono disponibili solamente a titolo informativo e non sono da considerare un sostituto dell'opinione di dottori o professionisti qualificati. I pazienti in generale non dovrebbero usare le informazioni trovate su questo sito come metodo diagnostico. I pazienti dovrebbero indipendentemente consultarsi con un dottore o un professionista qualificato a dare consigli medici o informazioni inerenti diagnosi e trattamenti. 
+
+**IN CASO DI EMERGENZA, CHIAMATE IL VOSTRO NUMERO LOCALE DI EMERGENZA.**
+
+{{ site.data.tags.disclaimer.end }}
 
 Quando abbiamo iniziato a scrivere per questo sito a Berlino, in Germania, nella seconda settimana di marzo 2020, molto sul virus non era ancora chiaro, ma il numero di infetti e di morti era in costante aumento, particolarmente in Italia. Anche se non è, né ora né mai, bene farsi prendere dal panico, pensiamo che sia giunto il momento di pensare e di prepararsi.
 
